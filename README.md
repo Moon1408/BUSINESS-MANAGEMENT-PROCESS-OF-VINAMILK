@@ -1,13 +1,11 @@
 # XÂY DỰNG HỆ THỐNG ERP CHO QUY TRÌNH QUẢN LÝ KINH DOANH SỮA CỦA DOANH NGHIỆP VINAMILK
 **1. Giới thiệu về dự án:**
 
-- Dựa trên các quy trình kinh doanh thực tế của Vinamilk, thiết kế và triển khai chúng trong Odoo.
+- Dự án này nhằm mục tiêu thiết kế và triển khai một hệ thống quản lý doanh nghiệp toàn diện dựa trên nền tảng Odoo, phù hợp với các quy trình kinh doanh thực tế của Công ty Cổ phần Sữa Việt Nam (Vinamilk).
 
-**2. Mục tiêu:**
+**2. Công cụ:** Odoo, Draw.io 
 
-**3. Công cụ:** Odoo, Draw.io 
-
-**4. Các bước thực hiện:**
+**3. Các bước thực hiện:**
 
 B1: Tìm hiểu và thu thập thông tin về Vinamilk
 
@@ -37,7 +35,7 @@ B8: Implement ERP
     
   + Áp dụng Odoo vào quy trình tuyển dụng của Vinamilk   
 
-**5. Kết quả**
+**4. Kết quả**
 
 - Tối ưu hóa quy trình kinh doanh: Các bộ phận cùng dùng chung 1 hệ thống và liên kết với nhau, đồng bộ hóa các quy trình khác nhau trong doanh nghiệp.
 
